@@ -3,18 +3,24 @@
 ## 1- Overview
 
 This project presents a commercial analysis dashboard developed in Microsoft Power BI, focused on evaluating sales performance across segments, manufacturers, categories, points of sale, and sales representatives. The objective is to provide actionable insights to support strategic and operational decision-making.
+
 ---
+
 ## 2- Business Context
 
 The client requested a comprehensive view of sales performance by segment, manufacturer, and product category, as well as visibility into the performance of points of sale and individual sales representatives. An additional requirement was to understand which factors most strongly influence sales value, addressed through the use of the *Key Influencers* visual.
+
 ---
+
 ## 3- Dataset
 
 * Records: 457 rows
 * Format: CSV
 * Data quality: No null or blank values
+
 ---
-### 4- Features
+
+## 4- Features
 
 * Product ID
 * Product
@@ -30,11 +36,15 @@ The client requested a comprehensive view of sales performance by segment, manuf
 * Sale Date
 * Sales Value
 * Cost
+
 ---
+
 ## 5- Data Preparation
 
 The dataset was largely aligned with business requirements. Minor transformations were applied to standardize *State* and *City* fields to ensure consistency and reliable aggregation in geographic analyses.
+
 ---
+
 ## 6- Dashboard Structure
 
 * **Smart Narrative**: Automated insights summarizing key sales patterns and variations.
@@ -50,7 +60,9 @@ The dataset was largely aligned with business requirements. Minor transformation
 
 * **Sales Performance by Region and Salesperson**: Geographic and individual performance analysis using map visuals.
 <img width="1287" height="716" alt="Print - Vendas x região e vendedor" src="https://github.com/user-attachments/assets/f32e0865-4765-4fcf-baa5-f43c89498bca" />
+
 ---
+
 ## 7- Key Conclusions
 
 * The **Corporate segment** consistently shows higher average sales values compared to Domestic and Industrial segments.
@@ -58,13 +70,17 @@ The dataset was largely aligned with business requirements. Minor transformation
 * A small group of manufacturers concentrates a significant portion of total sales, indicating potential dependency risks.
 * Sales performance varies substantially by region and salesperson, highlighting opportunities for targeted incentives and training.
 * The *Key Influencers* analysis confirms that segment type and product category are the strongest drivers of sales value.
+
 ---
+
 ## 8- Tools and Technologies
 
 * Microsoft Power BI
 * DAX for calculated measures
 * CSV data source
+
 ---
+
 ## 9- Contact
 
 For projects, collaborations, or professional opportunities, please contact:
