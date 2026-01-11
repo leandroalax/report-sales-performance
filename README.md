@@ -66,7 +66,7 @@ The dataset was largely aligned with business requirements. Minor transformation
 ## 7- Key Conclusions
 
 * The **Corporate segment** consistently shows higher average sales values compared to Domestic and Industrial segments.
-* **Electrodomésticos** represent the highest share of total revenue, followed by **Celulares**.
+* **Household Appliance** represent the highest share of total revenue, followed by **Celulares**.
 * A small group of manufacturers concentrates a significant portion of total sales, indicating potential dependency risks.
 * Sales performance varies substantially by region and salesperson, highlighting opportunities for targeted incentives and training.
 * The *Key Influencers* analysis confirms that segment type and product category are the strongest drivers of sales value.
